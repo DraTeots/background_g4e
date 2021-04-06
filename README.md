@@ -57,6 +57,14 @@ drwxr-xr-x  2 romanov ENP  788 Apr  5 15:21 .
 -rw-r--r--  1 romanov ENP   29 Apr  5 15:21 g4e_output.end.rndm
 -rw-r--r--  1 romanov ENP 8.5K Apr  5 15:21 g4e_output.root
 ```
+Questions:
+1: in the file   "cone_pgun.mac"  the command "/generator/coneParticleGun/number" defines a default number= ...?
+   which file controls the proton gun ? 
+2: Is it an  N-tuple?  , the    "g4e_output.root"
+3: Any histigrams to open via ROOT ? How?
+
+
+
 
 ## More documentation
 
