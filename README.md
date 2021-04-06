@@ -65,7 +65,7 @@ Questions:
 
 3: Any histigrams to open via ROOT ? How?
 
-4:
+4: It would be good to have gdml file as an output. But this is for the 1-st approach.
 
 
 ## More documentation
